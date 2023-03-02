@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aab68d41-5dbb-4de6-8533-c08476be811f" name="Changes" comment="" />
+    <list default="true" id="aab68d41-5dbb-4de6-8533-c08476be811f" name="Changes" comment="git commit -m &quot;created oop&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677696866242</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;created oop&quot;">
+      <created>1677737944461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677737944461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +60,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;created oop&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;created oop&quot;" />
   </component>
 </project>
